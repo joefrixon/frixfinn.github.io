@@ -82,7 +82,7 @@ Seasoned Cloud Infrastructure Consultant with 23+ years of experience specializi
 - Oversaw technical architecture and infrastructure design for critical business applications
 
 ### MANAGER OF IT
-**Microcom Solutions Pvt Ltd, Hyderabad, India** | January 2016 - March 2017
+**Microcom Solutions Pvt Ltd, Hyderabad, India** | January 2013 - March 2017
 *Technology solutions provider for enterprise clients*
 
 - Led enterprise security implementation and served as CISO for ISO 27001 certification
