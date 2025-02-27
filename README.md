@@ -66,7 +66,7 @@ Cloud Infrastructure Specialist with 23+ years of experience in cloud migration 
 - Oversaw technical architecture for critical business applications
 
 ### PREVIOUS ROLES
-- **Manager of IT**, Microcom Solutions, India (2016-2017)
+- **Manager of IT**, Microcom Solutions, India (2013-2017)
 - **IT Technician**, United Nations UNAMID, North Sudan (2011-2012)
 - **IT Manager**, Health Plan Systems, India (2006-2011)
 - **Systems Administrator**, Radix InfoTech, India (2000-2004)
