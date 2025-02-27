@@ -1,6 +1,6 @@
 # JOE FRIXON
 **Multi-Cloud Engineer | Cloud Solutions Architect**  
-Helsinki, Finland | +358 41 319 7880 | [Email] | [LinkedIn]
+Helsinki, Finland | +358 41 319 7880 | frixon@gmail.com | https://www.linkedin.com/in/frixon/
 
 ## PROFESSIONAL SUMMARY
 Cloud Infrastructure Specialist with 23+ years of experience in cloud migration and operations management. Expert in AWS, Azure, and GCP environments with a proven track record of implementing secure, scalable solutions across Europe. Strategic leader with experience in DevOps, disaster recovery, and cost optimization.
